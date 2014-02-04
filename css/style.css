@@ -1,0 +1,58 @@
+body {
+    background: #67655D url('noisy-texture-100x100-o12-d26-c-f74f58-t0.png') repeat;
+}
+
+.subcat{
+    border:1px solid #ccc;
+    border-width:1px 0;
+    list-style:none;
+
+    margin:0;
+    padding:0;
+    text-align:center;
+}
+.subcat li{
+    display:inline;
+    padding: 100px;
+  
+
+}
+
+
+#logo {
+    display: block;
+    text-align: center;
+}
+
+#row1
+{
+    margin: 0 0 0 230px;
+}
+
+.row1 {  
+     display: inline-block;  
+     height: 100px;  
+     width: 100px;  
+     border-radius: 6px;  
+     margin: 10px 10px 10px 10px; 
+     padding: 0 140px 0 0; 
+} 
+
+#row2
+{
+    margin: 0 0 0 230px;
+}
+
+.row2 {
+     display: inline-block;  
+     height: 100px;  
+     width: 100px;  
+     border-radius: 6px;  
+     margin: 10px 10px 10px 10px; 
+     padding: 0 140px 0 0;
+
+}
+
+#deserts ul{
+    margin: 0 500px 0 0;
+}
